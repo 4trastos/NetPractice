@@ -4,13 +4,13 @@ This project is a general practical exercise to let you discover networking
 
 # Tabla de contenido
 
-Conceptos importantes
-TCP
-IP addres (dirección IP)
-Subnet Mask (Máscara Subred)
-Switch
-Router
-Levels
+· Conceptos importantes
+· TCP
+· IP addres (dirección IP)
+· Subnet Mask (Máscara Subred)
+· Switch
+· Router
+· Levels
 
 # Conceptos importantes
 
