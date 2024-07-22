@@ -4,7 +4,7 @@ This project is a general practical exercise to let you discover networking
 
 # Tabla de contenido
 
-˚  Conceptos Importantes
+· Conceptos Importantes
 · TCP
 · IP addres (dirección IP)
 · Subnet Mask (Máscara Subred)
